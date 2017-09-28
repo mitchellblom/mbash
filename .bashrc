@@ -27,7 +27,7 @@ alias pushere='git push origin HEAD'
 alias pull='git pull origin '
 alias gb='git branch'
 alias gch='git checkout'
-alias gdb='git branch -D'
+alias gdb='git branch -D' 
 alias nb='git checkout -b '
 
 alias dnr='dotnet run'
