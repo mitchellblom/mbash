@@ -14,7 +14,7 @@ alias c='clear'
 
 alias d='cd .. && ls'
 alias u='cd '
-alias a='ls '
+alias a='ls -a'
 alias l='ls '
 alias sl='ls '
 alias s='ls '
@@ -95,11 +95,11 @@ alias weather="curl wttr.in/Moon && curl wttr.in/37208"
 
 # Env variables
 
-export BAGOLOOT_DB="/Users/mitchellblom/workspace/reference/bagoloot/bagoloot_db.db"
-export BANGAZON_DB="/Users/mitchellblom/workspace/c19/bangazon/BangazonAPI/bang.db"
-export BANGAZON_CLI_DB="/Users/mitchellblom/workspace/c19/bangazon/BangazonCLI/bang.db"
-export BANGAZON_TEST_DB="/Users/mitchellblom/workspace/c19/bangazon/BangazonCLI/bang_test.db"
-export YFINDER_DB="/Users/loaner1/Projects/YFinderAPI/YfinderAPIdotnet2/YFinder2.db"
-export FUELYTICS_DB="/Users/loaner1/workspace/EFC/Fuelytics.db"
+# export BAGOLOOT_DB="/Users/mitchellblom/workspace/reference/bagoloot/bagoloot_db.db"
+# export BANGAZON_DB="/Users/mitchellblom/workspace/c19/bangazon/BangazonAPI/bang.db"
+# export BANGAZON_CLI_DB="/Users/mitchellblom/workspace/c19/bangazon/BangazonCLI/bang.db"
+# export BANGAZON_TEST_DB="/Users/mitchellblom/workspace/c19/bangazon/BangazonCLI/bang_test.db"
+# export YFINDER_DB="/Users/loaner1/Projects/YFinderAPI/YfinderAPIdotnet2/YFinder2.db"
+# export FUELYTICS_DB="/Users/loaner1/workspace/EFC/Fuelytics.db"
 
 export PATH="$HOME/.fastlane/bin:$PATH"
