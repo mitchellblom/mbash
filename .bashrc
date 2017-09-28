@@ -15,7 +15,7 @@ alias c='clear'
 alias d='cd .. && ls'
 alias u='cd '
 alias a='ls -a'
-alias l='ls '
+alias l='ls ' 
 alias sl='ls '
 alias s='ls '
 
